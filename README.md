@@ -1,4 +1,4 @@
-# Groove Kits Message Encoder
+# Mugisha Message Encoder
 
 A simple web-based tool for encoding messages using ROT13 cipher. Built with HTML, CSS, and JavaScript.
 
@@ -12,7 +12,7 @@ A simple web-based tool for encoding messages using ROT13 cipher. Built with HTM
 
 ## Live Demo
 
-Visit the live demo at: [Groove Kits Encoder](https://mugisha.vercel.app)
+Visit the live demo at: [Mugisha Encoder](https://mugisha.vercel.app)
 
 
 
